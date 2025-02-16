@@ -1,0 +1,1 @@
+pip install opencv-python numpy moviepy tqdm scipy
